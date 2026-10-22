@@ -22,6 +22,9 @@ No PBIX/PBIT, source tables, DAX measures, relationships, refresh history or met
 ## Verification
 Reviewed all four PDF pages and visually inspected the personnel and access-to-care pages. Checked the displayed arithmetic. Power BI was not opened or refreshed.
 
+## Owner-reported functionality
+On October 22, 2026, Cameron confirmed that the Power BI dashboard works in his environment. This is an owner-reported functionality check. The original PBIX, data model and source tables were not supplied for independent inspection; specific filter behaviors, refresh, measure definitions and displayed count reconciliation were not independently verified.
+
 ## Reproduce and extend
 Open the included PDF or HTML report. Full verification requires the original Power BI report and an approved, anonymized or synthetic dataset, together with distinct-person definitions, snapshot dates, modality mappings and access-to-care units. The source data is not bundled.
 
